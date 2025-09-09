@@ -27,5 +27,6 @@ It highlights proficiency in:
 
 ## 📷 Project Visuals
 <img width="1541" height="695" alt="highway front view" src="https://github.com/user-attachments/assets/71ba871f-a8d4-4d64-80ac-963e80170b8f" />
-![highway survey point and contour](https://github.com/user-attachments/assets/d3674078-56fd-4a25-ad5a-0819c360e1f5)
+![highway survey point and contour](https://github.com/user-attachments/assets/52d0bc80-c709-4252-9300-9751a295e744)
+
 
